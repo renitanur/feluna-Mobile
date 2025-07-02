@@ -1,16 +1,30 @@
-# feluna
+# 🌸 Feluna - Aplikasi Pelacak Menstruasi
 
-A new Flutter project.
+**Kelola kesehatan menstruasi Anda!**  
+Feluna adalah aplikasi berbasis mobile yang dirancang untuk membantu wanita mengelola siklus menstruasi secara praktis, tenang, dan informatif. Kami menggabungkan teknologi tracking, terapi relaksasi, dan chatbot pintar untuk memberikan pengalaman menstruasi yang lebih seimbang.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Unggulan
 
-A few resources to get you started if this is your first Flutter project:
+### 📅 Tracking
+Pantau dan kelola siklus menstruasi Anda dengan mudah, lengkap dengan prediksi menstruasi berikutnya dan notifikasi pengingat.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🧘 Treatments
+Rasakan manfaat terapi sederhana seperti olah napas dan peregangan untuk membantu mengurangi nyeri haid.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 💬 Chatbot
+Konsultasikan pertanyaan seputar menstruasi Anda dengan chatbot cerdas kami yang memberikan jawaban akurat dan edukatif.
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Python (Flask)  
+- **Database**: MySQL  
+- **AI/ML**: Text Classification untuk Chatbot  
+- **Tracking System**: Perhitungan siklus menstruasi berdasarkan input pengguna  
+- **Deployment**: [https://feluna.my.id](https://feluna.my.id)
+
+---
