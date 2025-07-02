@@ -1,0 +1,74 @@
+name: feluna
+description: "Menstruasi? Tenangkan diri, hadapi hari"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  gif: ^2.2.0
+  google_fonts: ^5.1.0
+  audioplayers: ^6.1.0
+  provider: ^6.0.3
+  http: ^1.2.2
+  google_sign_in: ^6.2.2
+  table_calendar: ^3.1.2
+  shared_preferences: ^2.3.2
+  camera: ^0.10.0+2
+  permission_handler: ^10.4.3
+  tflite_flutter: ^0.11.0
+  image: ^3.2.0
+  flutter_hooks: ^0.18.6
+  hooks_riverpod: ^2.3.6
+  flutter_tts: ^3.5.2
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.0
+  flutter_lints: ^4.0.0
+  build_runner: ^2.0.0
+  flutter_launcher_icons: ^0.11.0
+  integration_test:
+    sdk: flutter
+
+flutter_icons:
+ android: true
+ ios: true
+ image_path: "assets/logo_feluna.png"
+ remove_alpha_ios: true
+
+flutter:
+  assets:
+    - assets/000.png
+    - assets/logo google.png
+    - assets/logo.png
+    - assets/background_profile.jpg
+    - assets/profile.png
+    - assets/background_chatbot.png
+    - assets/sound/aba-aba.mp3
+    - assets/sound/river_serenade.mp3
+    - assets/sound/meditation.mp3
+    - assets/sound/bird_nature.mp3
+    - assets/sound/forest_veil.mp3
+    - assets/sound/noise_calming.mp3
+    - assets/sound/rain_memory.mp3
+    - assets/sound/sunset_beach.mp3
+    - assets/pose/cat_cow.gif
+    - assets/pose/child.gif
+    - assets/pose/cobra.gif
+    - assets/pose/corpse.gif
+    - assets/pose/reclining_twist.gif
+    - assets/logo_feluna.png
+    - assets/models/4.tflite
+
+  uses-material-design: true
